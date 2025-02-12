@@ -111,3 +111,4 @@ func TestMainHandlerCountMoreThanTotal(t *testing.T) {
     }
 }
 
+func main() {}
